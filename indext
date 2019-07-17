@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Buket Ozkan</title>
+    <style>
+        body{-
+            margin: 0 auto;
+            max-width: 50em;
+            font-family: ''Helvetica'', ''Arial'', sans-serif;
+            line-height: 1.5
+            padding:4em 1em;
+            color: #556;
+        }
+
+      h2{  
+         margin-top: 1em;
+         padding-top: 1em;
+     }
+
+     h1, h2, strong {  
+           color: #333
+      }
+    </style>
+</head>
+
+
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+</head>
+<body>
+<header>
+    <h1>Buket Ozkan</h1>
+    <img src="img/jaleresım.png.png" width="150" alt="buket"/>
+    <nav>
+        <ul>
+            <li><a href="#summary">Summary</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <article>
+        <section id="summary">
+            <h2>
+                Summary
+            </h2>
+            <p>
+                A <b>English Language and literature</b> 
+            </p>
+        </section>
+        <section id="work">
+
+            </ul>
+        </section>
+        <section id="education">
+            <h2>Education</h2>
+            <ul>
+                <li>
+                    <strong >Bulent Ecevit Universitesi</strong><br>
+                    <a href="https://w3.beun.edu.tr" itemprop="url">beun.edu</a><br>
+                    <small>English language and literature</small>
+                    <br>
+                    2018<br>
+                </li>
+            </ul>
+        </section>
+        <section id="languages">
+            <h2>Languages</h2>
+            <ul>
+                <li>
+                    Turkish - Native
+                </li>
+                <li>
+                    English - Fluent
+                </li>
+    </nav>
+    <section id="contact">
+        <h2>Contact</h2>
+        <ul>
+            <li>
+                <a href="mailto:buket.ozkan588@gmail.com">E-mail</a>
+            </li>
+        </ul>
+    </section>
+</footer>
+</body>
+</html>
